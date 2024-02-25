@@ -1,6 +1,5 @@
 const inquirer = require('inquirer');
-const fs = require('fs');
-
+const generateLogo = require('./assets/generateLogo');
 
 const questions = [
     {
@@ -30,8 +29,7 @@ const questions = [
 function init() {
     inquirer.prompt(questions)
         .then((response) => {
-            // makeLogo(response);
-            console.log("Generating your logo");
+            generateLogo(response);
         });
 };
 
