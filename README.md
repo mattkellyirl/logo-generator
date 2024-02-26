@@ -22,9 +22,9 @@ To install this application, clone this repository to your local machine and dow
 ## Usage
 To use this application, execute "node index.js" to start the application. Answer the prompts as requested, to create your own logo. Once you have successfully answered all prompts, a logo.svg file will be created inside your local working directory. 
 
-<img src="./assets/screenshots/scrn1.png">
+<img src="./assets/screenshots/scrn1.png"></img>
 
-<img src="./assets/screenshots/scrn2.png">
+<img src="./assets/screenshots/scrn2.png"></img>
 
 ## Contribution Guidelines
 This project was developed by Matt Kelly.
