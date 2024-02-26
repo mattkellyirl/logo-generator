@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-const generateLogo = require('./assets/generateLogo');
+const { generateLogo } = require('./assets/generateLogo');
 
 const questions = [
     {

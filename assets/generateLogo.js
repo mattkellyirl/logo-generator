@@ -58,5 +58,5 @@ function generateLogo(response) {
         err ? console.error('Error writing to logo.svg') : console.log('Generated logo.svg');
     });
 };
+
 module.exports = { Circle, Triangle, Square, generateLogo };
-// module.exports = generateLogo;
