@@ -5,7 +5,7 @@
 ## Description
 Avoid excessive graphic design turnaround times and create logos fast with this logo generator, built with Javascript, Inquirer and Jest.
 
-To view a live demonstration of this application, please visit this link: https://www.youtube.com/watch?v=dVopQ85Pf_Q 
+To view a live demonstration of this application, please visit this link: https://www.youtube.com/watch?v=ZYBBSJTTPOY
 
 ## Table of Contents
 - [Description](#description)
